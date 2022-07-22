@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vincentte97
 - 👀 I’m interested in Data Analytics and Business Intelligence
-- 🌱 I’m currently learning Python, SQL, Power BI, Tableau and R
+- 🌱 I’m currently learning Python, SQL, Power BI and Tableau
 - 💞️ I’m looking to collaborate on everything that is related to Data Anaytics
 - 📫 How to reach me: akogwuvincent@gmail.com
 
